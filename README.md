@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @remchh
-- 👀 I’m interested in web aplications, machine learning, cybersecurity 
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on vue.js or python proyects.
-- 📫 How to reach me ... a portafolio is comming.
+- 👋 Hi, I’m Rafael Mejia
+- 👀 I’m interested in web aplications and machine learning.
+- 🌱 I’m currently creating and learning Vue.js apps
+- 💞️ I’m looking to collaborate on Vue.js or python proyects.
+- 📫 How to reach me ... https://remchh.github.io/
 
 <!---
 remchh/remchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
